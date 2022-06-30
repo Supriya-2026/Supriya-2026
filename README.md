@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Supriya-2026
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Flutter, Nodejs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutter, Python
+- 🌱 I’m currently learning Flutter
 - 📫 mail me iam.supriyaramesh@gmail.com   
  
 <!--- 
